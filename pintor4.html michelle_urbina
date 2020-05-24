@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>series</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+    
+<h1>Diego velazquez</h1>
+<img src="Diego Velazquez.html" alt="">
+<h3>Diego Rodríguez de Silva y Velázquez (Sevilla, bautizado el 6 de junio de 1599​-Madrid, 6 de agosto de 1660), conocido como Diego Velázquez, fue un pintor barroco español considerado uno de los máximos exponentes de la pintura española y maestro de la pintura universal. </h3>
+    <img src="pintor4.jpg" alt="">
+<h2> Mis obras favoritas </h2>
+<img src="p4.1.jpg" alt="">
+<img src="p4.2.jpg" alt="">
+<img src="p4.3.jpg" alt="">
+<img src="p4.5.jpg" alt="">
+<img src="p4.5.jpg" alt="">
+
+</header>
+
+</body>
+</html>
