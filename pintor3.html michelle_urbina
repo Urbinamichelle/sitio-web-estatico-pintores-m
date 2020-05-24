@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>mis datos</title>
+</head>
+<body style="color: cornflowerblue;">
+<h1> Pablo picasso </h1>
+<img src="200px-Pablo_picasso_1.jpg" alt="">
+<h3>(Pablo Ruiz Picasso; Málaga, 1881 - Moulins, Francia, 1973) Pintor español. La trascendencia de Picasso no se agota en la fundación del cubismo, revolucionaria tendencia que rompió definitivamente con la representación tradicional al liquidar la perspectiva y el punto de vista único. A lo largo de su dilatada trayectoria, Pablo Picasso exploró incesantemente nuevos caminos e influyó en todas la facetas del arte del siglo XX, encarnando como ningún otro la inquietud y receptividad del artista contemporáneo. Su total entrega a la labor creadora y su personalidad vitalista, por otra parte, nunca lo alejarían de los problemas de su tiempo; una de sus obras maestras, el Guernica (1937), es la mejor ilustración de su condición de artista comprometido.</h3>
+   <h2> Mis obras favoritas</h2> 
+   <img src="p3.2.jpg" alt="">
+   <img src="p3.1.jpg" alt="">
+    <img src="p3.3.jpg" alt="">
+    <img src="p3.4.jpg" alt="">
+    <img src="p3.5.jpg" alt="">
+</body>
+</html>
