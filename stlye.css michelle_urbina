@@ -1,0 +1,30 @@
+header{
+   background-color: skyblue;
+    border: 1px black;
+}
+main{
+    background-color: mediumslateblue;
+
+    padding: 15px;
+}
+footer{
+    border:1px black;
+    background-color: orchid
+}
+h1,
+h3{
+    text-align: center;
+}
+main{
+    background-color: linen;
+    border: brown;
+}
+header{
+background-color: plum;
+border: darkgreen;
+}
+footer{
+background-color: lightslategrey;
+border: firebrick;
+align-content: center;
+}
